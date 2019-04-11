@@ -164,6 +164,13 @@ you can use the generic selector below, but it's slower:
 .arrow_back:before {
 	content: "\4a";
 }
+.icon_water:before {
+    content: url('icons/water.jpg');
+    height: 20px;
+    width: 20px;
+    display: block;
+    /* Other styles here */
+}
 .icon_minus-06:before {
 	content: "\4b";
 }
