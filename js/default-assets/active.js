@@ -169,6 +169,18 @@
     $('#bar3').barfiller({
       barColor: '#00aeef'
     });
+    $('#bar4').barfiller({
+      barColor: '#00aeef'
+    });
+    $('#bar5').barfiller({
+      barColor: '#00aeef'
+    });
+    $('#bar6').barfiller({
+      barColor: '#00aeef'
+    });
+    $('#bar7').barfiller({
+      barColor: '#00aeef'
+    });
   }
 
   // // :: 14.0 onePageNav Active Code
